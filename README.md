@@ -1,2 +1,2 @@
 # dailyplanner
-This is an installable app that keeps track of your passwords, your tasks, and your journals. 
+This is an installable app that keeps track of your passwords, your tasks, and your journals. You just have to enter in the information, and you can even add what date it was written to track your information. For passwords, you just need the name of the website, your username, and of course, your password. For tasks, you just need the name of the task and the day it is due. For your journals, you can just journal and then add in the date if you would wish. The application can only be accessed by authorized users. 
